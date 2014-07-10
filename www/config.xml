@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.iagosrl.testphonegap" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>HelloWorld</name>
+    <name>Testing Phone Gap</name>
     <description>
-        Teting Phone Gap, based on: Hello World sample application that responds to the deviceready event.
+        Testing Phone Gap, based on: Hello World sample application that responds to the deviceready event.
     </description>
     <author email="iagosrl@gmail.com" href="http://iagosrl.com">
         IagoSRL
